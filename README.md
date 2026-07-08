@@ -1,7 +1,6 @@
-# Hi, I'm Gulam Robbani 👋
-
 <img width="1723" height="416" alt="banner" src="https://github.com/user-attachments/assets/564b88e1-5d7f-49e5-bca9-7ac06b1e1105" />
 
+# Hi, I'm Gulam Robbani 👋
 ### 🚀 Automation-Focused Software Engineer
 
 I design and build **efficient, scalable software systems** — from automation tools to full-stack web and mobile applications.
