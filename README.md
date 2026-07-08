@@ -105,7 +105,7 @@ Actively expanding into modern full-stack and scalable systems:
 ---
 ## 🔖 Featured Project — Bizom Automizer
 
-<img width="1919" height="1080" alt="bizom_workflow_demo" src="https://github.com/user-attachments/assets/38b90c6f-e778-4b52-af2b-62b34c172e0d" />
+<img width="1280" height="740" alt="bizom_workflow_demo(Low)" src="https://github.com/user-attachments/assets/6aca2435-a2c2-4c09-9f2a-e8a41b4ee993" />
 
 **Python · PyQt · MySQL**
 
