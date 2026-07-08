@@ -25,8 +25,7 @@ Currently expanding into full-stack development, Android apps, AI agents, and sc
 
 Actively expanding into modern full-stack and scalable systems:
 
-* ⚛️ Advancing in **React.js** — scalable UI architecture & performance optimization
-* ▲ Building production-ready apps with **Next.js** (SSR, API routes, full-stack patterns)
+* ▲ Advancing in **Next.js** — scalable UI architecture & performance optimization
 * 🤖 Integrating **AI & automation** into real-world workflows
 * ☁️ Deploying and optimizing apps on **Vercel & cloud platforms**
 * 🧩 Designing **end-to-end systems** combining frontend, backend, and automation
