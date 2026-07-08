@@ -20,7 +20,6 @@ After years of corporate experience, I combined technical expertise with busines
 
 Currently expanding into full-stack MERN development, Android apps, AI agents, and scalable software architecture.
 
-<br clear="right"/>
 ---
 
 ## 🌱 Current Focus
