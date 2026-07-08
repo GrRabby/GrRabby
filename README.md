@@ -114,8 +114,9 @@ A Python-based desktop application built to supercharge the Bizom retail intelli
 * ⚙️ Single-entry warehouse selection applied across all return transactions
 * 🔄 Automated return value fetching for loadout summaries
 * 📦 Non-salable SKU management
----
 🔗 Project Details : https://www.linkedin.com/in/gulam-robbani/details/projects/
+---
+
 ## 📬 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grrabby9@gmail.com)
