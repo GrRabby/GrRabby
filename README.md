@@ -49,6 +49,7 @@ Actively expanding into modern full-stack and scalable systems:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge\&logo=daisyui\&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge\&logo=electron\&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white)
 
 ### ⚙️ Backend & Databases
 
