@@ -105,6 +105,8 @@ Actively expanding into modern full-stack and scalable systems:
 ---
 ## 🔖 Featured Project — Bizom Automizer
 
+<img width="900" height="562" alt="bizom_workflow_demo" src="https://github.com/user-attachments/assets/a7f2659c-c6fe-48a4-a2f1-7be4aa1fce33" />
+
 **Python · PyQt · MySQL**
 
 A Python-based desktop application built to supercharge the Bizom retail intelligence platform. Inspired by ERP systems like SAP, it introduced:
