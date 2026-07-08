@@ -94,9 +94,7 @@ Actively expanding into modern full-stack and scalable systems:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GrRabby&theme=tokyonight&hide_border=true"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=GrRabby)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrRabby&theme=tokyonight"/>
