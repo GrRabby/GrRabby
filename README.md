@@ -17,7 +17,7 @@ A key milestone was building a custom PyQt desktop application to enhance our co
 
 After years of corporate experience, I combined technical expertise with business insight to establish my own automation-focused business, delivering services to thousands of clients in a competitive market.
 
-Currently expanding into full-stack MERN development, Android apps, AI agents, and scalable software architecture.
+Currently expanding into full-stack development, Android apps, AI agents, and scalable software architecture.
 
 <br clear="right"/>
 
