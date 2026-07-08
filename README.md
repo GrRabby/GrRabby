@@ -82,7 +82,7 @@ Actively expanding into modern full-stack and scalable systems:
 
 | Area | Description |
 |------|-------------|
-| ⚙ Full-Stack Web (MERN) | React frontends, Node/Express APIs, MongoDB — deployed on Vercel with auth & REST integration |
+| ⚙ Full-Stack Web     | React/Next.js frontends, Node/Express APIs, MongoDB — deployed on Vercel with auth & REST integration |
 | 🤖 Python Automation | Workflow automation, bots, scrapers, and data processing scripts |
 | 🖥 Desktop Applications | PyQt/Tkinter apps with ERP-inspired workflow design and multithreading |
 | 📱 Android Development | Native Android apps with Java — UI to API integration |
