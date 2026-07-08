@@ -10,7 +10,9 @@ I design and build **efficient, scalable software systems** — from automation 
 
 ## 🚀 About me
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<table>
+<tr>
+<td>
 
 My programming journey started as an **MIS Officer at MGH Group**, where I began automating repetitive tasks with scripting. What started as small tools grew into larger solutions that dramatically improved operational productivity.
 
@@ -20,7 +22,15 @@ After years of corporate experience, I combined technical expertise with busines
 
 Currently expanding into full-stack MERN development, Android apps, AI agents, and scalable software architecture.
 
-<br clear="right"/>
+</td>
+
+<td width="380">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
