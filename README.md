@@ -103,6 +103,19 @@ Actively expanding into modern full-stack and scalable systems:
 </p>
 
 ---
+## 🔖 Featured Project — Bizom Automizer
+
+**Python · PyQt · MySQL**
+
+A Python-based desktop application built to supercharge the Bizom retail intelligence platform. Inspired by ERP systems like SAP, it introduced:
+
+* 📦 Dynamic expiry return window with barcode-based form tracking
+* 📊 Centralized control panel for bulk order fulfillment & load sheet generation
+* ⚙️ Single-entry warehouse selection applied across all return transactions
+* 🔄 Automated return value fetching for loadout summaries
+* 📦 Non-salable SKU management
+
+---
 
 ## 📬 Let's Connect
 
